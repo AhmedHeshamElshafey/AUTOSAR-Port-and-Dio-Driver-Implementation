@@ -20,6 +20,12 @@ This project demonstrates a **modular and AUTOSAR-compliant implementation** of 
 
 ---
 
+## 📷 Demo:
+#### 🔘 Test Case: Button Press to Blink LED
+[▶️ Click to watch the Hardware Test](https://github.com/AhmedHeshamElshafey/AUTOSAR-Port-and-Dio-Driver-Implementation/raw/main/video/video_2025-07-22_04-29-44.mp4)
+
+---
+
 ## ⚙️ Hardware Requirements
 
 - **Tiva C LaunchPad (TM4C123GH6PM)**
